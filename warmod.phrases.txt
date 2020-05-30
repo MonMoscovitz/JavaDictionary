@@ -1,0 +1,540 @@
+"Phrases"
+{
+	"Safe Mode"
+	{
+		"vi"			"Safe Mode đã được bật. Các tính năng thông thường sẽ bị tắt đi."
+	}
+	"Match Reset"
+	{
+		"vi"			"Reset trận đấu - Trận đấu này sẽ không được live!"
+	}
+	"Half Reset"
+	{
+		"vi"			"Reset nửa trận đấu - Trận đấu này sẽ không được live!"
+	}
+	"Half Time"
+	{
+		"vi"			"Hết hiệp! Hãy đổi team..."
+	}
+	"Half Time Auto Swap"
+	{
+		"vi"			"Hết hiệp! Đang đổi team..."
+	}
+	"Full Time"
+	{
+		"vi"			"Hết trận!"
+	}
+	"Over Time"
+	{
+		"#format"		"{1:i}"
+		"vi"			"Overtime! MR{1}"
+	}
+	"Over Time Sudden Death"
+	{
+		"vi"			"Overtime! Sudden Death"
+	}
+	"Playing Out Notice"
+	{
+		"#format"		"{1:i}"
+		"vi"			"Note: Tất cả {1} round đấu phải được diễn ra!"
+	}
+	"Ready"
+	{
+		"vi"			"Bạn đã được đánh dấu là sẵn sàng"
+	}
+	"Not Ready"
+	{
+		"vi"			"Bạn đã được đánh dấu là chưa sẵn sàng"
+	}
+	"Score Overtime"
+	{
+		"vi"			"Overtime: "
+	}
+	"Score Overall"
+	{
+		"vi"			"Tổng kết: "
+	}
+	"Knife Round Cancelled"
+	{
+		"vi"			"Đấu dao bị huỷ bỏ - Không Live"
+	}
+	"Knife Round Inactive"
+	{
+		"vi"			"Đấu dao đang không hoạt động"
+	}
+	"Ready System Enabled"
+	{
+		"vi"			"Hệ thống sẵn sàng - Đã được bật"
+	}
+	"Ready System Disabled"
+	{
+		"vi"			"Hệ thống sẵn sàng - Đã được tắt"
+	}
+	"Set Active"
+	{
+		"vi"			"Đặt thành hoạt động"
+	}
+	"Set Inactive"
+	{
+		"vi"			"Đặt thành không hoạt động"
+	}
+	"Console Ready"
+	{
+		"vi"			"Console không thể được đánh dấu là sẵn sàng"
+	}
+	"Console Not Ready"
+	{
+		"vi"			"Console không thể được đánh dấu là chưa sẵn sàng"
+	}
+	"Not on Team"
+	{
+		"vi"			"Bạn đang không ở trong đội"
+	}
+	"Already Ready"
+	{
+		"vi"			"Bạn đã được đánh dấu là sẵn sàng từ trước đó"
+	}
+	"Already Not Ready"
+	{
+		"vi"			"Bạn đã được đánh dấu là chưa sẵn sàng từ trước đó"
+	}
+	"Forced Ready"
+	{
+		"vi"			"Bắt buộc tất cả người chơi thành sẵn sàng"
+	}
+	"Forced Not Ready"
+	{
+		"vi"			"Bắt buộc tất cả người chơi thành chưa sẵn sàng"
+	}
+	"Forced Spectate"
+	{
+		"vi"			"Bắt buộc tất cả người chơi về chế độ Spectate"
+	}
+	"Match Not In Progress"
+	{
+		"vi"			"Trận đấu đang không diễn ra"
+	}
+	"T Winning"
+	{
+		"#format"		"{1:s}"
+		"vi"			"{1} đang thắng"
+	}
+	"Tied"
+	{
+		"vi"			"Tỉ số là hoà"
+	}
+	"CT Winning"
+	{
+		"#format"		"{1:s}"
+		"vi"			"{1} đang thắng"
+	}
+	"Change Teams Midgame"
+	{
+		"vi"			"Bị chặn - Trận đấu đang diễn ra"
+	}
+	"Maximum Players"
+	{
+		"vi"			"Teams phải đại số lượng tối đa người chơi"
+	}
+	"Nightvision Blocked"
+	{
+		"vi"			"Night vision đã được tắt"
+	}
+	"Grenades Blocked"
+	{
+		"vi"			"Sử dụng bom khi đang warmup đã được tắt"
+	}
+	"Ready System"
+	{
+		"vi"			"Hệ thống sẵn sàng"
+	}
+	"Match Begin Msg"
+	{
+		"#format"		"{1:i}"
+		"vi"			"Trận đấu sẽ bắt đầu sau khi đủ {1} người chơi còn lại sẵn sàng"
+	}
+	"No Players Found"
+	{
+		"vi"			"Không tìm thấy người chơi nào cả"
+	}
+	"Info Not Ready"
+	{
+		"vi"			"Chưa sẵn sàng:"
+	}
+	"Info Exit"
+	{
+		"vi"			"Thoát"
+	}
+	"Ready System Disabled2"
+	{
+		"vi"			"Hệ thống sẵn sàng chưa được bật"
+	}
+	"ShowInfo Disabled"
+	{
+		"vi"			"Hệ thống thông báo sẵn sàng chưa được bật"
+	}
+	"Match Is Live"
+	{
+		"vi"			"Trận đấu đang được live live"
+	}
+	"WarMod Inactive"
+	{
+		"vi"			"WarMod chưa hoạt động"
+	}
+	"Change T Name"
+	{
+		"#format"		"{1:s}"
+		"vi"			"Terrorists đã đổi tên thành '{1}'"
+	}
+	"Change CT Name"
+	{
+		"#format"		"{1:s}"
+		"vi"			"Counter-Terrorists đã đổi tên thành '{1}'"
+	}
+	"Console"
+	{
+		"vi"			"Console: "
+	}
+	"Available Commands"
+	{
+		"vi"			"Lệnh cả dụng cho người chơi"
+	}
+	"No Permission"
+	{
+		"vi"			"Bạn không có quyền sử dụng lệnh này"
+	}
+	"Set Minready"
+	{
+		"#format"		"{1:i}"
+		"vi"			"wm_min_ready được đặt thành {1}"
+	}
+	"Set Maxrounds"
+	{
+		"#format"		"{1:i}"
+		"vi"			"wm_max_rounds được đặt thành {1}"
+	}
+	"WarMod Rcon Only"
+	{
+		"vi"			"Các lệnh quản trị viên đã bị hạn chế chỉ được sử dụng RCON"
+	}
+	"Set Password"
+	{
+		"#format"		"{1:s}"
+		"vi"			"sv_password được đặt thành '{1}'"
+	}
+	"Autokick"
+	{
+		"vi"			"Bạn đã bị tự động kick khỏi server"
+	}
+	"Names Required"
+	{
+		"vi"			"Trận đấu sẽ không được bắt đầu cho đến khi cả 2 đội đã đều đặt tên"
+	}
+	"Pause Freeze Time"
+	{
+		"vi"			"Trận đấu đã được tạm dừng"
+	}
+	"Pause Round End"
+	{
+		"vi"			"Trận đấu sẽ được tạm dừng sau khi round đấu kết thúc"
+	}
+	"Pause Limit"
+	{
+		"vi"			"Bạn đã sử dụng hết số lượng lần tạm dừng"
+	}
+	"Pause Non-player"
+	{
+		"vi"			"Bạn phải ở bên T hoặc CT để sử dụng /pause"
+	}
+	"Pause Offer"
+	{
+		"vi"			"đã xin được tạm dừng. Vui lòng gõ /pause để được tạm dừng trận đấu"
+	}
+	"Pause Not Enabled"
+	{
+		"vi"			"sv_pauseable được đặt thành 0. Chức năng tạm dừng sẽ không hoạt động"
+	}
+	"Unpause Notice"
+	{
+		"vi"			"Trận đấu đã được tạm dừng. Vui lòng gõ /unpause để tiếp tục trận đấu"
+	}
+	"Unpause Offer"
+	{
+		"vi"			"đã xin tiếp tục trận đấu. Vui lòng gõ /unpause để tiếp tục trận đấu"
+	}
+	"Unpaused Match"
+	{
+		"vi"			"đã tiếp tục trận đấu"
+	}
+	"Unpause Non-player"
+	{
+		"vi"			"Bạn phải ở bên T hoặc CT để sử dụng /unpause"
+	}
+	"Pause Not Confirmed"
+	{
+		"vi"			"Lệnh tạm dừng không được thông qua bởi cả 2 team"
+	}
+	"Unpause Timer"
+	{
+		"vi"			"giây nữa trận đấu sẽ tự động tiếp tục"
+	}
+	"Unpause Auto"
+	{
+		"vi"			"Trận đấu đã được tự động tiếp tục sau khi vượt quá thời gian cho phép"
+	}
+	"Auto Pause Notice"
+	{
+		"#format"		"{1:s}"
+		"vi"			"Trận đấu đã được tạm dừng vì người chơi từ '{1}' đã rời khỏi server"
+	}
+	"Auto Unpause Notice"
+	{
+		"#format"		"{1:s}"
+		"vi"			"Trận đấu đã được tạm dừng tự động vì người chơi từ '{1}' đã rời khỏi server"
+	}
+	"Paused Via Rcon"
+	{
+		"vi"			"Server không bị tạm dừng thông qua rcon"
+	}
+	"Knife Vote Team"
+	{
+		"vi"			"đang lựa chọn có đổi đội hay không"
+	}
+	"Knife Vote"
+	{
+		"vi"			"Hãy gõ /stay hoặc /switch"
+	}
+	"Knife Stay"
+	{
+		"vi"			"đã lựa chọn ở lại"
+	}
+	"Knife Switch"
+	{
+		"vi"			"đã lựa chọn thay đổi đội"
+	}
+	"Set Name CT"
+	{
+		"vi"			"Hãy đặt tên cho bên CT"
+	}
+	"Set Name T"
+	{
+		"vi"			"Hãy đặt tên cho bên T"
+	}
+	"Set Name Both"
+	{
+		"vi"			"Cả 2 đội vui lòng hãy đặt tên cho đội của mình"
+	}
+	"Set Name CMD"
+	{
+		"vi"			"Để đặt tên vui lòng gõ /name TênĐội"
+	}
+	"Logos Required"
+	{
+		"vi"			"Trận đấu sẽ không được bắt đầu cho đến khi cả 2 đội đã đều đặt logo"
+	}
+	"Set Logo CT"
+	{
+		"vi"			"Hãy đặt logo cho bên CT"
+	}
+	"Set Logo T"
+	{
+		"vi"			"Hãy đặt logo cho bên T"
+	}
+	"Set Logo Both"
+	{
+		"vi"			"Cả 2 đội vui lòng hãy đặt logo cho đội của mình"
+	}
+	"Set Logo CMD"
+	{
+		"vi"			"Để đặt logo vui lòng gõ /logo"
+	}
+	"Live"
+	{
+		"vi"			"Trận đấu này đang được LIVE!"
+	}
+	"Live on 3"
+	{
+		"vi"			"Live sau 3"
+	}
+	"Live on 2"
+	{
+		"vi"			"Live sau 2"
+	}
+	"Live on 1"
+	{
+		"vi"			"Live sau 1"
+	}
+	"Knife On 3"
+	{
+		"vi"			"Đấu dao sau 3"
+	}
+	"Knife on 2"
+	{
+		"vi"			"Đấu dao sau 2"
+	}
+	"Knife on 1"
+	{
+		"vi"			"Đấu dao sau 1"
+	}
+	"Knife"
+	{
+		"vi"			"CHIM!"
+	}
+	"Zeus"
+	{
+		"vi"			"GIẬT!"
+	}
+	"Good Luck"
+	{
+		"vi"			"Good Luck, Have Fun!"
+	}
+	"Powered By"
+	{
+		"vi"			"Cung cấp bởi"
+	}	
+	"Admin_Menu WarMod Commands"
+	{
+		"vi"			"WarMod Commands"
+	}
+	"Admin_Menu Enable ReadyUp"
+	{
+		"vi"			"Enable ReadyUp"
+	}
+	"Admin_Menu Disable ReadyUp"
+	{
+		"vi"			"Disable ReadyUp"
+	}
+	"Admin_Menu Knife"
+	{
+		"vi"			"Knife"
+	}
+	"Admin_Menu Force Start"
+	{
+		"vi"			"Force Start"
+	}
+	"Admin_Menu Force End"
+	{
+		"vi"			"Force End"
+	}
+	"Admin_Menu Cancel Half"
+	{
+		"vi"			"Cancel Half"
+	}
+	"Admin_Menu Cancel Match"
+	{
+		"vi"			"Cancel Match"
+	}
+	"Admin_Menu Cancel Knife"
+	{
+		"vi"			"Cancel Knife"
+	}
+	"Admin_Menu ForceAllReady"
+	{
+		"vi"			"Force All Ready"
+	}
+	"Admin_Menu ForceAllUnready"
+	{
+		"vi"			"Force All Unready"
+	}
+	"Admin_Menu ForceAllSpectate"
+	{
+		"vi"			"Force All Spectate"
+	}
+	"Admin_Menu Activate WarMod"
+	{
+		"vi"			"Activate WarMod"
+	}
+	"Admin_Menu Deactivate WarMod"
+	{
+		"vi"			"Deactivate WarMod"
+	}
+	"Warm Up Active"
+	{
+		"vi"			"Warm Up đã được bật"
+	}
+	"FTP Upload Failed"
+	{
+		"vi"			"Failed uploading demo file. Check the server log files."
+	}
+	"FTP Log Upload Successful"
+	{
+		"vi"			"Log file uploaded successfully"
+	}
+	"FTP Demo Upload Successful"
+	{
+		"vi"			"Demo uploaded successfully"
+	}
+	"Veto Offer Not Confirmed"
+	{
+		"vi"			"Veto không được chấp thuận bởi team bên kia"
+	}
+	"Veto No Maps"
+	{
+		"#format"		"{1:i}"
+		"vi"			"Không có map nào trong danh sách bo{1}"
+	}
+	"Veto Bo3 Map List"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"vi"			"Map 1 = {1}, Map 2 = {2}, Map 3 = {3}"
+	}
+	"Veto Bo5 Map List"
+	{
+		"#format"		"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"vi"			"Map 1 = {1}, Map 2 = {2}, Map 3 = {3}, Map 4 = {4}, Map 5 = {5}"
+	}
+	"Veto Bo2 Map List"
+	{
+		"#format"		"{1:s},{2:s}"
+		"vi"			"Map 1 = {1}, Map 2 = {2}"
+	}
+	"Veto Disabled"
+	{
+		"vi"			"Hệ thống Veto đã được tắt"
+	}
+	"Veto Non-player"
+	{
+		"vi"			"Bạn phải ở T hoặc CT để sử dụng lệnh !veto"
+	}
+	"Veto Offer"
+	{
+		"#format"		"{1:i}"
+		"vi"			"đã yêu cầu trận Bo{1}. Hãy gõ !veto để bắt đầu"
+	}
+	"Veto Captain"
+	{
+		"vi"			"đội trưởng sẽ là"
+	}
+	"Veto First Second"
+	{
+		"vi"			"sẽ được chọn map trước hoặc sau"
+	}
+	"Non-player"
+	{
+		"vi"			"Bạn phải ở T hoặc CT để sử dụng lệnh này"
+	}
+	"Default Offer"
+	{
+		"vi"			"đã yêu cầu trận đấu bình thường. Hãy gõ !default để chấp nhận"
+	}
+	"Default Offer Not Confirmed"
+	{
+		"vi"			"Trận đấu bình thường không được chấp nhận bởi team bên kia"
+	}
+	"PlayOut Offer"
+	{
+		"vi"			"have asked for a play out match. Please type !playout to accept"
+	}
+	"PlayOut Offer Not Confirmed"
+	{
+		"vi"			"Play Out offer was not confirmed by the other team"
+	}
+	"OverTime Offer"
+	{
+		"vi"			"đã yêu cầu trận đấu overtime. Hãy gõ !overtime để chấp nhận"
+	}
+	"OverTime Offer Not Confirmed"
+	{
+		"vi"			"Trận đấu overtime không được chấp nhận bởi team bên kia"
+	}
+}
